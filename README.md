@@ -2,7 +2,8 @@
 
 ## O que será desenvolvido
 
-Nesse projeto vocês farão um **carrinho de compras** totalmente dinâmico! E o melhor: consumindo dados diretamente de uma **API!** Isso mesmo. Da sigla em inglês _Application Programming Interface_, uma API é um ponto de contato na internet com determinado serviço. Através de **requisições HTTP** a essa API é possível interagir com ela da forma como quem a criou planejou. Aqui usaremos a API do Mercado Livre para buscarmos produtos à venda.
+Nesse projeto será desenvolvido um "carrinho de compras" totalmente dinâmico! Iremos consumir os dados de uma API do Mercado Livre para buscarmos produtos à venda.
+
 ---
 
 ## Habilidades
@@ -42,6 +43,7 @@ e de fácil manutenção! Para roda-los localmente no projeto, execute os comand
 npm run lint
 npm run lint:styles
 ```
+
 ---
 
 ### API Shopping Cart
