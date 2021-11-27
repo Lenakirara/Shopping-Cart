@@ -52,9 +52,7 @@ O [manual da API do Mercado Livre](https://developers.mercadolivre.com.br/pt_br/
 
 ---
 
-### Lista de requisitos
-
----
+## Lista de requisitos
 
 ### 1 - Crie uma listagem de produtos
 
